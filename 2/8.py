@@ -1,4 +1,6 @@
 str=input()
 str=str.split()
 
-print()
+print(str)
+
+# print()
