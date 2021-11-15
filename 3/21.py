@@ -11,14 +11,14 @@ def get_answer(min,max):
             max=(max+min)/2
         else:
             min=(max+min)/2
-        print(min,max)
+        # print(min,max)
         return get_answer(min,max)
 
 
 n=int(input())
 
 gmin=0
-gmax=n
+gmax=n+1
 ans=get_answer(gmin,gmax)
 
 # print(round(ans,4))
