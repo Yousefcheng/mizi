@@ -1,4 +1,4 @@
-string = input().split
+string = input().split()
 num_list = []
 output_list = []
 
