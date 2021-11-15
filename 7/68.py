@@ -1,0 +1,1 @@
+matrix=eval(input())
