@@ -1,0 +1,2 @@
+raw,column = input().split()
+
