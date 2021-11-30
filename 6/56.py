@@ -1,3 +1,6 @@
+'''
+    
+'''
 num_list=input().split()
 
 res=[]

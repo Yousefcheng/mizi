@@ -1,3 +1,6 @@
+'''
+    
+'''
 def isRe_num(son):
     rev_son = reversed(list(son))
     if list(rev_son) == list(son):

@@ -1,3 +1,6 @@
+'''
+    
+'''
 numList=input()
 
 numList=numList.split(',')

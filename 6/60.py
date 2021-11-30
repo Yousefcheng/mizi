@@ -1,3 +1,6 @@
+'''
+    
+'''
 arr=[int(i) for i in input().split()]
 num=int(input())
 

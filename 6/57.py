@@ -1,3 +1,6 @@
+'''
+    
+'''
 class ListNode(object):
     """节点"""
   
@@ -27,8 +30,8 @@ class Solution:
                 p = p.next
             return r
  
-if __name__ == "__main__":
-    test = Solution()
-    data1 = [1, 3, 2]
-    l1 = test.initList(data1)
-    print(l1.val, "->", l1.next.val, "->", l1.next.next.val)
+test = Solution()
+data1 = [1, 3, 2]
+l1 = test.initList(data1)
+
+print(l1.val, "->", l1.next.val, "->", l1.next.next.val)

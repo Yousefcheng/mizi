@@ -1,3 +1,6 @@
+'''
+    
+'''
 list=input()
 num=int(input())
 list=list.split(',')

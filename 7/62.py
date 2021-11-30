@@ -1,3 +1,6 @@
+'''
+    
+'''
 import numpy
 
 num=int(input())

@@ -1,3 +1,6 @@
+'''
+    
+'''
 student=[int(i) for i in input().split()]
 
 target=int(input())

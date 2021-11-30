@@ -1,3 +1,6 @@
+'''
+    
+'''
 def get_common_str(list_a):
     '''输入列表a，返回公共子串
     输入: ["flower","flow","flight"]

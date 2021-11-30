@@ -1,3 +1,6 @@
+'''
+    
+'''
 def isone(ctx):
     # print(ctx[2:])
     ctx=[int(x) for x in list(ctx[2:]) ]

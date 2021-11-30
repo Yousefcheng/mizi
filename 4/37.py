@@ -1,3 +1,6 @@
+'''
+    
+'''
 def fun(choose):
     def pinfang(n):
         print(n**2)

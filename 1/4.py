@@ -1,3 +1,6 @@
+'''
+    
+'''
 er = input()  # 二进制
 ba = input()  # 八进制
 shi = input()  # 十进制
